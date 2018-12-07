@@ -4,6 +4,7 @@
 	git init <새로운 디렉토리 명>
 
 ## 스테이징 영역에 등록
+<<<<<<< HEAD
 	git add <file name>
 
 ## 버전 생성
@@ -13,8 +14,7 @@
 	git log
 
 ## 버전 삭제
-	git reset --hard 
-
+	git reset --hard
 ## 버전 수정
 	git revert
 
@@ -26,5 +26,4 @@
 
 ## 브랜치 병합
 	git merge <branch name>
-
 
