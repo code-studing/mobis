@@ -6,7 +6,7 @@
 ## 스테이징 영역에 등록
 	git add [filename]
 ## 버전 생성
-
+	git commit -m 'message'
 ## 버전 역사 보기
 	git log
 ## 버전 삭제
@@ -14,7 +14,7 @@
 ## 버전 수정
 
 ## 브랜치 생성 
-	git branch <branch 명>
+	git branch <Branch_Name>
 ## 다른 브랜치로 체크아웃
  
  	git checkout <branch 명>
