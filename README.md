@@ -5,6 +5,7 @@
 ## 스테이징 영역에 등록
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	git add <file name>
 
 =======
@@ -63,35 +64,32 @@
 >>>>>>> df3f55675bd4d3d0564a884d9ea98b9601b66c5c
 =======
 	git add
+=======
+	git add <파일명>
+>>>>>>> 8a2ddf229858ded009d80d6e7aebd18d2b45626b
 ## 버전 생성
 	git commit [-m "text"]
 ## 버전 역사 보기
 	git log [--oneline] [--graph] [--branches] [-p]
->>>>>>> c88f3dd5f68bf784dd2f4c1c8d92f434dae710e0
 ## 버전 삭제
 	git reset
 ## 버전 수정
 	git revert
 ## 브랜치 생성 
-<<<<<<< HEAD
 	git branch <Branch_Name>
 ## 다른 브랜치로 체크아웃
- 
 	git checkout <branch 명>
+<<<<<<< HEAD
 	hi
+=======
+>>>>>>> 8a2ddf229858ded009d80d6e7aebd18d2b45626b
 ## 브랜치 병합
 	git merge <병합할 branch 명>
-<<<<<<< HEAD
-=======
-
-hi
->>>>>>> 790e8d1ef697ab88623e14f52d01aa2c20f3a4f9
-=======
-	git branch
 ## 다른 브랜치로 체크아웃
 	git checkout
 ## 브랜치 병합
 	git merge
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> c88f3dd5f68bf784dd2f4c1c8d92f434dae710e0
 =======
@@ -115,3 +113,6 @@ hi
 teach cherry-pick
 >>>>>>> 1070b7881485660a49b3995c5bf301ed444990f0
 gkgkgkgkg
+=======
+>>>>>>> 8a2ddf229858ded009d80d6e7aebd18d2b45626b
+stop plz
