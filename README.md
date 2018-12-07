@@ -12,7 +12,7 @@
 ## 버전 삭제
 	git reset <Commit_ID>
 ## 버전 수정
-
+	git commit --amend <Commit_ID>
 ## 브랜치 생성 
 	git branch <Branch_Name>
 ## 다른 브랜치로 체크아웃
