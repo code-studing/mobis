@@ -4,15 +4,8 @@
 	git init <새로운 디렉토리 명>
 
 ## 스테이징 영역에 등록
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 	git add <file name>
 
-=======
-<<<<<<< HEAD
 	git add <파일이름>
 
 ## 버전 생성
