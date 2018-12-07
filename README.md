@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ################################### mobis 수업내용
 
 ## 저장소 생성
@@ -104,6 +105,8 @@
 <<<<<<< HEAD
 
 ## 브랜치 병합
+=======
+>>>>>>> 0ddeeaae5b48e0e5ac62034da8bed0c2014ab865
 	git merge <병합할 branch 명>
 
 =======
@@ -122,6 +125,7 @@
 <<<<<<< HEAD
 
 ## Cherry-pick
+<<<<<<< HEAD
 	teach cherry-pick
 
 =======
@@ -172,3 +176,6 @@ teach cherry-pick
 ### teach cherry-pick
 >>>>>>> 1da2b9bcfbfaabc64effc47554dd5b78431ea79f
 >>>>>>> 233bb0b28437108643b37439137d0ec4b8790c79
+=======
+### teach cherry-pick
+>>>>>>> 0ddeeaae5b48e0e5ac62034da8bed0c2014ab865
