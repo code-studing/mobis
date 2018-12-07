@@ -18,4 +18,5 @@
  	git checkout <branch 명>
 ## 브랜치 병합
 	git merge <병합할 branch 명>
-
+## 원격 저장소에 올리기
+	git push origin <branch name>
