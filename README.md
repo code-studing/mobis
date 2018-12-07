@@ -16,6 +16,7 @@
 ## 브랜치 생성 
 
 ## 다른 브랜치로 체크아웃
+	git checkout [branch name]
  
 ## 브랜치 병합
 
