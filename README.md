@@ -40,37 +40,3 @@
 	git log
 
 ## 버전 삭제
-	git reset --hard
-## 버전 수정
-	git revert
-
-## 브랜치 생성 
-	git branch -b <branch name>
-
-## 다른 브랜치로 체크아웃
- 	git checkout <version ID>
-## 버전 생성
-	git commit [-m "text"]
-## 버전 역사 보기
-	git log [--oneline] [--graph] [--branches] [-p]
-## 버전 삭제
-	git reset
-## 버전 수정
-	git revert
-## 브랜치 생성 
-	git branch <Branch_Name>
-## 다른 브랜치로 체크아웃
-	git checkout <branch 명>
-## 브랜치 병합
-	git merge <병합할 branch 명>
-## 다른 브랜치로 체크아웃
-	git checkout
-## 브랜치 병합
-	git merge
-## 브랜치 병합
-	git merge <branch name>
-
-## Cherry-pick
-stop plz
-=======
->>>>>>> 0b953d4e6d6f147378f72b80537736f0ea4a0d84
