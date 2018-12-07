@@ -14,6 +14,7 @@
 ## 버전 수정
 
 ## 브랜치 생성 
+	git branch <Branch_Name>
 
 ## 다른 브랜치로 체크아웃
  
