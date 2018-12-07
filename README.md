@@ -33,7 +33,7 @@
 ## 다른 브랜치로 체크아웃
  
 	git checkout <branch 명>
-
+	hi
 ## 브랜치 병합
 	git merge <병합할 branch 명>
 <<<<<<< HEAD
