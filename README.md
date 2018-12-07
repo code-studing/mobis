@@ -6,7 +6,7 @@
 ## 스테이징 영역에 등록
 	git add [filename]
 ## 버전 생성
-
+	git commit -m 'message'
 ## 버전 역사 보기
 	git log
 ## 버전 삭제
