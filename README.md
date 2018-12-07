@@ -10,7 +10,7 @@
 ## 버전 역사 보기
 	git log
 ## 버전 삭제
-
+	git reset <Commit_ID>
 ## 버전 수정
 
 ## 브랜치 생성 
