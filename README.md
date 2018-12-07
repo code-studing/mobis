@@ -9,13 +9,13 @@
 	git add <파일이름>
 
 ## 버전 생성
-	git commit -m "working name"
+	git commit [-m "text"]
 
 ## 버전 역사 보기
-	git log --oneline -- branches
+	git log --oneline -- branches --graph
 
 ## 버전 삭제
-	git reset --hard "sh1 id"
+	git reset --hard <sh-1 id>
 
 ## 버전 수정
 	git commit --amend
@@ -28,6 +28,7 @@
  
 ## 브랜치 병합
 	git merge <branch name>
+<<<<<<< HEAD
 
 =======
 <<<<<<< HEAD
@@ -139,3 +140,6 @@ teach cherry-pick
 >>>>>>> 8a2ddf229858ded009d80d6e7aebd18d2b45626b
 #Luv Mobis
 >>>>>>> f1104641914b64600ddf1c651ee410701caefaf1
+=======
+>>>>>>> b24d229240e9d32e0a80bf45f7885dc4dd90904f
+## I LUV EGOING
