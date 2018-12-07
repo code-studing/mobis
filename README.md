@@ -13,7 +13,6 @@
 ## 버전 수정
 	git revert
 ## 브랜치 생성 
-<<<<<<< HEAD
 	git branch <branch 명>
 ## 다른 브랜치로 체크아웃
  	git checkout <branch 명>
