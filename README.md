@@ -14,10 +14,10 @@
 ## 버전 수정
 
 ## 브랜치 생성 
-
+	git branch <branch 명>
 ## 다른 브랜치로 체크아웃
- 
+ 	git checkout <branch 명>
 ## 브랜치 병합
-
+	git merge <병합할 branch 명>
 
 
