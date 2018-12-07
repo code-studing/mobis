@@ -3,17 +3,16 @@
 
 ## 스테이징 영역에 등록
 	git add <file name>
-
 	git add <파일이름>
 
 ## 버전 생성
-	git commit -m "working name"
+	git commit [-m "text"]
 
 ## 버전 역사 보기
-	git log --oneline -- branches
+	git log --oneline -- branches --graph
 
 ## 버전 삭제
-	git reset --hard "sh1 id"
+	git reset --hard <sh-1 id>
 
 ## 버전 수정
 	git commit --amend
@@ -37,6 +36,7 @@
 	git commit
 
 ## 버전 역사 보기
+	git log
 
 ## 버전 삭제
 	git reset --hard
@@ -52,15 +52,12 @@
 	git add <파일명>
 ## 버전 생성
 	git commit [-m "text"]
-
 ## 버전 역사 보기
 	git log [--oneline] [--graph] [--branches] [-p]
 ## 버전 삭제
 	git reset
-
 ## 버전 수정
 	git revert
-
 ## 브랜치 생성 
 	git branch <branch 명>
 ## 다른 브랜치로 체크아웃
@@ -68,19 +65,16 @@
 	git merge <병합할 branch 명>
 	git branch
 	git branch <Branch_Name>
-
 ## 다른 브랜치로 체크아웃
 	git checkout <branch 명>
 
 ## 브랜치 병합
 	git merge <병합할 branch 명>
 
-	hi
 ## 브랜치 병합
 	git merge <병합할 branch 명>
 ## 다른 브랜치로 체크아웃
 	git checkout
-
 ## 브랜치 병합
 	git merge
 
@@ -94,3 +88,4 @@
 ## Cherry-pick
 teach cherry-pick
 #Luv Mobis
+stop plz
